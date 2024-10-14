@@ -4,62 +4,38 @@ title: What's New
 include_in_header: true
 ---
 
-# Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+### **Phiên bản 1.0**
 
-<br>
-
-### `Latest`
-# **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+Chào mừng bạn đến với **phiên bản đầu tiên** của ứng dụng quiz trivia cực kỳ hấp dẫn của chúng tôi! Chúng tôi rất phấn khởi được giới thiệu một nền tảng giải trí không chỉ giúp bạn thư giãn mà còn gia tăng kiến thức một cách thú vị. Hãy sẵn sàng cho những thử thách đầy kích thích và khám phá thế giới kiến thức đa dạng cùng chúng tôi!
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
 
-#### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- **Hàng nghìn câu hỏi thú vị**: Chúng tôi đã tập hợp hàng ngàn câu hỏi từ nhiều lĩnh vực khác nhau, bao gồm:
 
-<br>
+  - **Kiến thức chung**: Kiểm tra khả năng hiểu biết của bạn về những sự kiện lịch sử, địa lý, và văn hóa.
+  - **Khoa học và Công nghệ**: Những câu hỏi thú vị về các phát minh, khám phá và những điều kỳ diệu trong thế giới tự nhiên.
+  - **Văn hóa Pop**: Từ âm nhạc, phim ảnh đến trò chơi video, hãy thử thách bản thân với những câu hỏi nóng hổi nhất!
+  - **Thể thao**: Kiểm tra kiến thức thể thao của bạn với những câu hỏi từ bóng đá, bóng rổ đến các môn thể thao khác.
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- **Tính năng xếp hạng theo tuần**: Tham gia vào cuộc thi hàng tuần để xem ai là người chơi giỏi nhất. Bảng xếp hạng sẽ cập nhật liên tục, cho phép bạn theo dõi thành tích của mình và cạnh tranh với bạn bè!
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- **Chế độ chơi đa dạng**: Chúng tôi cung cấp nhiều chế độ chơi khác nhau:
 
-<br>
+  - **Chơi đơn**: Hoàn thành câu hỏi một mình và ghi điểm cao.
+  - **Chơi nhiều người**: Mời bạn bè cùng tham gia và xem ai là người chiến thắng trong cuộc thi trí tuệ này!
 
-________
-<br>
+- **Giao diện người dùng thân thiện**: Chúng tôi đã thiết kế một giao diện trực quan và hấp dẫn, giúp bạn dễ dàng tìm kiếm câu hỏi và điều hướng trong ứng dụng mà không gặp khó khăn.
 
-### `Initial Release`
-# **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+- **Chia sẻ thành tích**: Sau khi hoàn thành quiz, bạn có thể dễ dàng chia sẻ thành tích của mình lên mạng xã hội, thách thức bạn bè tham gia và cùng nhau tạo ra những khoảnh khắc vui vẻ!
 
-<br>
+- **Hỗ trợ nhiều ngôn ngữ**: Ứng dụng hiện hỗ trợ nhiều ngôn ngữ khác nhau, giúp người chơi từ khắp nơi trên thế giới dễ dàng tham gia và tận hưởng trải nghiệm.
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+- **Phản hồi và gợi ý**: Chúng tôi rất coi trọng ý kiến của bạn. Hãy để lại phản hồi và gợi ý để chúng tôi có thể cải thiện và mang đến những trải nghiệm tốt nhất cho bạn trong các bản cập nhật sau!
 
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+#### Sự kiện đặc biệt
 
-<br>
+Chúng tôi cũng có kế hoạch tổ chức các sự kiện quiz đặc biệt với giải thưởng hấp dẫn trong tương lai. Hãy theo dõi ứng dụng để không bỏ lỡ cơ hội tham gia!
 
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-#### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+Chúng tôi hy vọng bạn sẽ thích trải nghiệm mới này và trở thành một phần của cộng đồng quiz trivia của chúng tôi. Hãy cùng nhau khám phá kiến thức và giải trí một cách vui vẻ!
 
 <br>
